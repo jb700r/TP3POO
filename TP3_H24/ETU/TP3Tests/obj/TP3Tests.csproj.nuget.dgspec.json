@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cegep\\DCF\\420-W20-SF POO DFC\\Travaux\\TP3\\TP3_MediaPlayer_H24\\ETU\\TP3Tests\\TP3Tests.csproj": {}
+    "C:\\Users\\jeffrey\\OneDrive - Cégep de Sainte-Foy\\CEGEP_STE_FOY\\session 2\\ProgObj1\\TP3\\TP3_H24\\ETU\\TP3Tests\\TP3Tests.csproj": {}
   },
   "projects": {
-    "C:\\Cegep\\DCF\\420-W20-SF POO DFC\\Travaux\\TP3\\TP3_MediaPlayer_H24\\ETU\\TP3Tests\\TP3Tests.csproj": {
+    "C:\\Users\\jeffrey\\OneDrive - Cégep de Sainte-Foy\\CEGEP_STE_FOY\\session 2\\ProgObj1\\TP3\\TP3_H24\\ETU\\TP3Tests\\TP3Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cegep\\DCF\\420-W20-SF POO DFC\\Travaux\\TP3\\TP3_MediaPlayer_H24\\ETU\\TP3Tests\\TP3Tests.csproj",
+        "projectUniqueName": "C:\\Users\\jeffrey\\OneDrive - Cégep de Sainte-Foy\\CEGEP_STE_FOY\\session 2\\ProgObj1\\TP3\\TP3_H24\\ETU\\TP3Tests\\TP3Tests.csproj",
         "projectName": "TP3Tests",
-        "projectPath": "C:\\Cegep\\DCF\\420-W20-SF POO DFC\\Travaux\\TP3\\TP3_MediaPlayer_H24\\ETU\\TP3Tests\\TP3Tests.csproj",
-        "packagesPath": "C:\\Users\\kfiliatreault\\.nuget\\packages\\",
-        "outputPath": "C:\\Cegep\\DCF\\420-W20-SF POO DFC\\Travaux\\TP3\\TP3_MediaPlayer_H24\\ETU\\TP3Tests\\obj\\",
+        "projectPath": "C:\\Users\\jeffrey\\OneDrive - Cégep de Sainte-Foy\\CEGEP_STE_FOY\\session 2\\ProgObj1\\TP3\\TP3_H24\\ETU\\TP3Tests\\TP3Tests.csproj",
+        "packagesPath": "C:\\Users\\jeffrey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeffrey\\OneDrive - Cégep de Sainte-Foy\\CEGEP_STE_FOY\\session 2\\ProgObj1\\TP3\\TP3_H24\\ETU\\TP3Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kfiliatreault\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jeffrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Cegep\\DCF\\420-W20-SF POO DFC\\Travaux\\TP3\\TP3_MediaPlayer_H24\\ETU\\TP3\\TP3.csproj": {
-                "projectPath": "C:\\Cegep\\DCF\\420-W20-SF POO DFC\\Travaux\\TP3\\TP3_MediaPlayer_H24\\ETU\\TP3\\TP3.csproj"
+              "C:\\Users\\jeffrey\\OneDrive - Cégep de Sainte-Foy\\CEGEP_STE_FOY\\session 2\\ProgObj1\\TP3\\TP3_H24\\ETU\\TP3\\TP3.csproj": {
+                "projectPath": "C:\\Users\\jeffrey\\OneDrive - Cégep de Sainte-Foy\\CEGEP_STE_FOY\\session 2\\ProgObj1\\TP3\\TP3_H24\\ETU\\TP3\\TP3.csproj"
               }
             }
           }
@@ -38,34 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "MSTest.TestAdapter": {
-              "target": "Package",
-              "version": "[3.1.1, )"
-            },
-            "MSTest.TestFramework": {
-              "target": "Package",
-              "version": "[3.1.1, )"
-            },
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[17.8.0, )"
-            },
-            "coverlet.collector": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -77,26 +54,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Cegep\\DCF\\420-W20-SF POO DFC\\Travaux\\TP3\\TP3_MediaPlayer_H24\\ETU\\TP3\\TP3.csproj": {
+    "C:\\Users\\jeffrey\\OneDrive - Cégep de Sainte-Foy\\CEGEP_STE_FOY\\session 2\\ProgObj1\\TP3\\TP3_H24\\ETU\\TP3\\TP3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cegep\\DCF\\420-W20-SF POO DFC\\Travaux\\TP3\\TP3_MediaPlayer_H24\\ETU\\TP3\\TP3.csproj",
+        "projectUniqueName": "C:\\Users\\jeffrey\\OneDrive - Cégep de Sainte-Foy\\CEGEP_STE_FOY\\session 2\\ProgObj1\\TP3\\TP3_H24\\ETU\\TP3\\TP3.csproj",
         "projectName": "TP3",
-        "projectPath": "C:\\Cegep\\DCF\\420-W20-SF POO DFC\\Travaux\\TP3\\TP3_MediaPlayer_H24\\ETU\\TP3\\TP3.csproj",
-        "packagesPath": "C:\\Users\\kfiliatreault\\.nuget\\packages\\",
-        "outputPath": "C:\\Cegep\\DCF\\420-W20-SF POO DFC\\Travaux\\TP3\\TP3_MediaPlayer_H24\\ETU\\TP3\\obj\\",
+        "projectPath": "C:\\Users\\jeffrey\\OneDrive - Cégep de Sainte-Foy\\CEGEP_STE_FOY\\session 2\\ProgObj1\\TP3\\TP3_H24\\ETU\\TP3\\TP3.csproj",
+        "packagesPath": "C:\\Users\\jeffrey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeffrey\\OneDrive - Cégep de Sainte-Foy\\CEGEP_STE_FOY\\session 2\\ProgObj1\\TP3\\TP3_H24\\ETU\\TP3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kfiliatreault\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jeffrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -116,11 +88,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -137,12 +104,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
